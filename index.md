@@ -48,4 +48,4 @@ As of now, Lab 1 is almost complete:
 - [ ] Using Markdown
 
 ## Thanks for Stopping By!
-![One Piece is real](screenshots/ONEPIECE.PNG)
+![One Piece is real](ONEPIECE.PNG)
